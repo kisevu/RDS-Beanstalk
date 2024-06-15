@@ -58,7 +58,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>AWS-servives</finalName>
+		<finalName>AWS-services</finalName>
 	</build>
 
 </project>
